@@ -1,4 +1,5 @@
-### Hi, I'm Raanan 👋
+## Raanan Kelner · Data Analyst
+**SQL · Python · Tableau · Experimentation & KPI design**
 
 **Data Analyst** with a B.Sc. in Medical Engineering. I turn messy operational and marketing data into decisions.
 
