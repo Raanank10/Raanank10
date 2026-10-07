@@ -1,7 +1,7 @@
 ## Raanan Kelner · Data Analyst
-**SQL · Python · Tableau · Experimentation & KPI design**
+**SQL · Python · Tableau · KPI design**
 
-**Data Analyst** with a B.Sc. in Medical Engineering. I turn messy operational and marketing data into decisions.
+B.Sc. in Medical Engineering. I turn messy operational and marketing data into decisions.
 
 - 📈 At **First Offer**, I analyzed and optimized a **$100K/month** native-to-search media budget across insurance, finance and consumer verticals (ClickFlare, TheOptimizer).
 - 🧪 Before that, I was a **Validation Engineer** at Sensiu (Kaizen Biotech).
